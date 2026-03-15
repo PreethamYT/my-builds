@@ -20,9 +20,9 @@ This repository documents my projects and learning progress. I believe in buildi
 ## 📌 Projects
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| 🔨 In Progress |
+| LinkTree | Personal landing page with links to social profiles. | ✅ Complete |
 
-*Projects coming soon.*
+*More Projects coming soon.*
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/preethamyt/)
