@@ -20,7 +20,7 @@ This repository documents my projects and learning progress. I believe in buildi
 ## 📌 Projects
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| LinkTree | Personal landing page with links to social profiles. | ✅ Complete |
+| LinkTree | Centralized hub with links to all my social profiles. | ✅ Complete |
 
 *More Projects coming soon.*
 
